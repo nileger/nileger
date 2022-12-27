@@ -1,5 +1,7 @@
 # Nils Leger
 
+
+### About me
 🎓 M.Sc. Computer Science <br>
 🏢 Software Engineer @Capgemini <br>
 🌎 Living near Karlsruhe, Germany 🇩🇪 <br>
@@ -8,6 +10,11 @@
 🖋️ Medium Author <br>
 🇩🇪 German, 🇬🇧 English, and 🇫🇷 French <br>
 🏊‍♂️ Hobby 🚲 Triathlete 🏃‍<br>
+
+### Statistics
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nileger&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nileger&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **NilsLeger/NilsLeger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
