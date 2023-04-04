@@ -3,7 +3,7 @@
 
 ### About me
 🎓 M.Sc. Computer Science <br>
-🏢 Software Engineer @Capgemini <br>
+🏢 Lead DevOps Engineer @Capgemini <br>
 🌎 Living near Karlsruhe, Germany 🇩🇪 <br>
 🚀 Infrastructure as Code <br>
 🎯 Creator of the [IaC Analyzer Decision Guide](https://iac-analyzers.dev/) <br>
