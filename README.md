@@ -16,26 +16,26 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
     <source
-      srcset="https://tuunit-github-readme-stats.vercel.app/api?username=nileger&theme=dark&show_icons=true&card_width=450&icon_color=2596be&ring_color=2596be&include_all_commits=true&count_private=true&hide=stars" 
+      srcset="https://github-readme-stats.vercel.app/api?username=nileger&theme=dark&show_icons=true&card_width=450&icon_color=2596be&ring_color=2596be&include_all_commits=true&count_private=true&hide=stars" 
       media="(prefers-color-scheme: dark)" 
     />
         <source
-      srcset="https://tuunit-github-readme-stats.vercel.app/api?username=nileger&show_icons=true&card_width=450&icon_color=2596be&ring_color=2596be&include_all_commits=true&count_private=true&hide=stars" 
+      srcset="https://github-readme-stats.vercel.app/api?username=nileger&show_icons=true&card_width=450&icon_color=2596be&ring_color=2596be&include_all_commits=true&count_private=true&hide=stars" 
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
     />
-    <img src="https://tuunit-github-readme-stats.vercel.app/api?username=nileger&show_icons=true&card_width=450&icon_color=2596be&ring_color=2596be&include_all_commits=true&count_private=true&hide=stars" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nileger&show_icons=true&card_width=450&icon_color=2596be&ring_color=2596be&include_all_commits=true&count_private=true&hide=stars" />
   </picture>
   
   <picture>
     <source
-      srcset="https://tuunit-github-readme-stats.vercel.app/api/top-langs/?username=nileger&theme=dark&card_width=300&langs_count=6&layout=compact&exclude_repo=dotfiles" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nileger&theme=dark&card_width=300&langs_count=6&layout=compact&exclude_repo=dotfiles" 
       media="(prefers-color-scheme: dark)" 
     />
     <source
-      srcset="https://tuunit-github-readme-stats.vercel.app/api/top-langs/?username=nileger&card_width=300&langs_count=6&layout=compact&exclude_repo=dotfiles" 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nileger&card_width=300&langs_count=6&layout=compact&exclude_repo=dotfiles" 
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" 
     />
-    <img src="https://tuunit-github-readme-stats.vercel.app/api/top-langs/?username=nileger&card_width=300&langs_count=6&layout=compact&exclude_repo=dotfiles" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileger&card_width=300&langs_count=6&layout=compact&exclude_repo=dotfiles" />
   </picture>
 </a>
 
