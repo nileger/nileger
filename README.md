@@ -3,7 +3,7 @@
 
 ### About me
 🎓 M.Sc. Computer Science <br>
-🏢 Lead DevOps Engineer @Flip <br>
+🏢 Site Reliability Engineer @Flip <br>
 🌎 Living near Karlsruhe, Germany 🇩🇪 <br>
 🚀 Infrastructure as Code <br>
 🎯 Creator of the [IaC Analyzer Decision Guide](https://iac-analyzers.dev/) <br>
